@@ -1,0 +1,58 @@
+/* src/styles/Home.css */
+/* Home.css */
+
+/* Add styles for the home container and other components as needed */
+
+/* Home.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+    /* Remove background color */
+    background-color: transparent; /* or you can use 'initial' to revert to default */
+  }
+  
+  /* Home.css */
+
+.heading {
+  color: #00c3ff;
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+  
+  .subheading {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  
+  .paragraph {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #00c3ff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Additional styles for other elements in the home page */
+  
+/* Additional styles for other elements in the home page */

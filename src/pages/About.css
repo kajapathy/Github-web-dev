@@ -1,0 +1,38 @@
+/* src/pages/About.css */
+/* src/pages/About.css */
+/* src/pages/About.css */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Roboto:wght@400;500;700&display=swap');
+
+.about-container {
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  text-align: left;
+}
+
+.about-heading {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #007BFF;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.section-heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #007BFF;
+  margin-bottom: 10px;
+}
+
+.section-content {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #555;
+}

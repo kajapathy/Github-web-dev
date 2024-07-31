@@ -1,0 +1,79 @@
+/* RegisterForm.css */
+.register-form-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #000000;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.register-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.register-form input {
+  padding: 10px;
+  font-size: 1em;
+}
+
+.register-form button {
+  padding: 10px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.register-form button:hover {
+  background-color: #0056b3;
+}
+
+.user-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+.user-table th, .user-table td {
+  border: 1px solid #a03131;
+  padding: 10px;
+  text-align: left;
+}
+
+.user-table th {
+  background-color: #007bff;
+}
+
+.remove-button {
+  padding: 5px 10px;
+  background-color: #dc3545;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  background-color: #c82333;
+}
+
+.back-to-home-button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.btn-primary {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
